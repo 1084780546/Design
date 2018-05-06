@@ -1,6 +1,6 @@
 package com.chen.FactoryPattern.simpleFactory;
 
-import com.chen.FactoryPattern.type.BMW;
+import com.chen.FactoryPattern.CarType.BMW;
 
 public class SimpleFactory {
 	

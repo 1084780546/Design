@@ -1,6 +1,6 @@
 package com.chen.FactoryPattern.model;
 
-import com.chen.FactoryPattern.type.BMW;
+import com.chen.FactoryPattern.CarType.BMW;
 
 //实体类
 public class BMW123 extends BMW {  

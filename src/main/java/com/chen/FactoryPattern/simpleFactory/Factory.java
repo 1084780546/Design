@@ -1,8 +1,8 @@
 package com.chen.FactoryPattern.simpleFactory;
 
+import com.chen.FactoryPattern.CarType.BMW;
 import com.chen.FactoryPattern.model.BMW320;
 import com.chen.FactoryPattern.model.BMW523;
-import com.chen.FactoryPattern.type.BMW;
 
 /*工厂类：*/
 public class Factory {  
