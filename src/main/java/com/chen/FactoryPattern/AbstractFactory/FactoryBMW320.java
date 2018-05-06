@@ -1,9 +1,9 @@
 package com.chen.FactoryPattern.AbstractFactory;
 
-import com.chen.FactoryPattern.AirconditionType.Aircondition;
-import com.chen.FactoryPattern.AirconditionType.AirconditionA;
-import com.chen.FactoryPattern.EngineType.Engine;
-import com.chen.FactoryPattern.EngineType.EngineA;
+import com.chen.FactoryPattern.AbstractFactory.AirconditionType.Aircondition;
+import com.chen.FactoryPattern.AbstractFactory.AirconditionType.AirconditionA;
+import com.chen.FactoryPattern.AbstractFactory.EngineType.Engine;
+import com.chen.FactoryPattern.AbstractFactory.EngineType.EngineA;
 
 //为宝马320系列生产配件    
 public class FactoryBMW320 implements AbstractFactory{    

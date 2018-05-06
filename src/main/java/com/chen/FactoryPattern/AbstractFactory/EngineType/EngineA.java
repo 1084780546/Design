@@ -1,4 +1,4 @@
-package com.chen.FactoryPattern.EngineType;
+package com.chen.FactoryPattern.AbstractFactory.EngineType;
 
 //发动机型号
 public class EngineA implements Engine{    
