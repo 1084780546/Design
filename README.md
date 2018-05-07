@@ -16,6 +16,8 @@ AdapterPattern适配器模式		com.chen.AdapterPattern.classAdapter.Client		com.
 
 DecoratorPattern装饰器模式	com.chen.DecoratorPattern.Test
 
+ProxyPattern代理模式		com.chen.ProxyPattern.run_main
+
 我的设计模式学习总结
 
 设计模式分为三大类：
