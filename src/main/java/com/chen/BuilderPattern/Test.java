@@ -19,6 +19,7 @@ public class Test{
 	 * 
 	 * PersonBuilder接口定义建造类目,ManBuilder和WomanBuilder实现PersonBuilder
 	 * 新建PersonDirector引导Person创建过程,再将ManBuilder和WomanBuilder放入PersonDirector的constructPerson方法去具体实现Person的创建
+	 * 将建造类的过程独立出来,不放于类中
 	 */
 	
     @SuppressWarnings("unused")
