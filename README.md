@@ -4,6 +4,7 @@ FactoryPattern工厂模式
 SingletonPattern单例模式
 BuilderPattern建造者模式
 PrototypePattern原型模式
+AdapterPattern适配器模式
 
 我的设计模式学习总结
 
