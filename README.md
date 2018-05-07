@@ -1,5 +1,7 @@
 # Design
 
+已完成的设计模式以及入口类
+
 FactoryPattern工厂模式	com.chen.FactoryPattern.simpleFactory.SimpleFactory
 	com.chen.FactoryPattern.AbstractFactory.MyAbstractFactory	com.chen.FactoryPattern.factoryMethod.FactoryMethod
 	
