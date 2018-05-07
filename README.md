@@ -1,10 +1,16 @@
 # Design
 
-FactoryPattern工厂模式
-SingletonPattern单例模式
-BuilderPattern建造者模式
-PrototypePattern原型模式
-AdapterPattern适配器模式
+FactoryPattern工厂模式	com.chen.FactoryPattern.simpleFactory.SimpleFactory
+	com.chen.FactoryPattern.AbstractFactory.MyAbstractFactory	com.chen.FactoryPattern.factoryMethod.FactoryMethod
+	
+SingletonPattern单例模式		com.chen.SingletonPattern.Singleton		com.chen.SingletonPattern.Singleton2
+	com.chen.SingletonPattern.Singleton3
+	
+BuilderPattern建造者模式		com.chen.BuilderPattern.Test
+
+PrototypePattern原型模式		com.chen.PrototypePattern.Client
+
+AdapterPattern适配器模式		com.chen.AdapterPattern.classAdapter.Client		com.chen.AdapterPattern.objectAdapter.Client
 
 我的设计模式学习总结
 
