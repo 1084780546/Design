@@ -1,5 +1,7 @@
 # Design
 
+配合https://blog.csdn.net/jason0539/article/details/44956775使用更佳
+
 已完成的设计模式以及入口类
 
 FactoryPattern工厂模式	com.chen.FactoryPattern.simpleFactory.SimpleFactory
@@ -17,6 +19,8 @@ AdapterPattern适配器模式		com.chen.AdapterPattern.classAdapter.Client		com.
 DecoratorPattern装饰器模式	com.chen.DecoratorPattern.Test
 
 ProxyPattern代理模式		com.chen.ProxyPattern.run_main
+
+FacadePattern外观模式(门面模式)		com.chen.FacadePattern.Client
 
 我的设计模式学习总结
 
