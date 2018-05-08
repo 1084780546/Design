@@ -24,6 +24,8 @@ FacadePattern外观模式(门面模式)		com.chen.FacadePattern.Client
 
 BridgerPattern桥接模式		com.chen.BridgePattern.Client
 
+CompositePattern组合模式		com.chen.CompositePattern.CompositePattern1.ComponentDemo	com.chen.CompositePattern.CompositePattern2.PayDemo
+
 我的设计模式学习总结
 
 设计模式分为三大类：
